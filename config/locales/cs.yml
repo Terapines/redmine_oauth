@@ -19,7 +19,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 cs:
-  oauth_login_via: "Pokračujte s <b>%{oauth}</b>"
+  oauth_login_via: "Pokračujte s <b>Terapines Cloud</b>"
   oauth_login_with: Přihlášení pomocí OAuth
   oauth_no_verified_email:  Není k dispozici žádný ověřený e-mail. Zkontrolujte nastavení u poskytovatele OAuth.
   oauth_invalid_provider: Neplatný poskytovatel OAuth
